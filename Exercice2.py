@@ -14,6 +14,5 @@ def itere(L,n):
 liste_reels = [1.0, 2.5, 4.8, 7.2, 11.0]
 resultat_itere_1 = itere(liste_reels, 1)
 resultat_itere_2 = itere(liste_reels, 2)
-
 print("itere(L, 1) =", resultat_itere_1)
 print("itere(L, 2) =", resultat_itere_2)
